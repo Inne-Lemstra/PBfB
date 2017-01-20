@@ -1,0 +1,8 @@
+#Inne Lemstra 20-01-2017
+Hi I don't know much about licensing.
+This repo is for a university project to get familiar with github.
+You are free to take inspiration from my work, but do not copy the This_is_the_grade_I_deserve.md file since plagarizing will also get me in trouble.
+Do look at how I inplemented the markup and stuff as long as you don't take the content.
+
+
+
