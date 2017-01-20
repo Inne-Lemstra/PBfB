@@ -28,8 +28,12 @@ To change things in the main time.
 Christoph send me a colaboration request for my bible reader project I once created
 This was abasic project to practise R string manipulation statements, it isn't
 Anything sophisticated. I don't mind him collaborating but its probably smarter to
-let him fork it on his own. Lets see what he thinks about thi.
+let him fork it on his own. Lets see what he thinks about this.
 ![fig1](./pics/christ_request.png)
+
+Some in our Fairytail collaboration is using windows. So everytime she write a part and uses git add --all she will also commit the .txt~ which windows makes for open programs. This is annoying because now we have a lot of useless files in our repo
+I openend an issue were I proposed to make a .gitignore file so files ending in ~ won't be uploaded any more. I did that and closed the issue.
+
 
 
 
