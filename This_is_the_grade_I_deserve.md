@@ -34,7 +34,7 @@ let him fork it on his own. Lets see what he thinks about this.
 Some in our Fairytail collaboration is using windows. So everytime she write a part and uses git add --all she will also commit the .txt~ which windows makes for open programs. This is annoying because now we have a lot of useless files in our repo
 I openend an issue were I proposed to make a .gitignore file so files ending in ~ won't be uploaded any more. I did that and closed the issue.
 
-![fig2](./pics/ignore_issue)
+![fig2](./pics/ignore_issue.png)
 
 
 
