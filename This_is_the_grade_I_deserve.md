@@ -25,11 +25,11 @@ Thought it might be easier if everyone had this. So you had less time between
 Finishing writing and changing master branch. So less oportunity for other people
 To change things in the main time.
 
-
-
-
-
-
+Christoph send me a colaboration request for my bible reader project I once created
+This was abasic project to practise R string manipulation statements, it isn't
+Anything sophisticated. I don't mind him collaborating but its probably smarter to
+let him fork it on his own. Lets see what he thinks about thi.
+![fig1](./pics/christ_request.png)
 
 
 
