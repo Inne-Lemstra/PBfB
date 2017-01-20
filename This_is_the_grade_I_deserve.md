@@ -1,6 +1,8 @@
 Inne Lemstra
 Ik heb geen idee hoe markdown werkt dus ik ga nu wat testen
 
+I think I deserve between a 7 and an 8. I got a good grasps of the functions of github. Interacted a lot with people offline and online and we came up with good/fun ideas. A lot of functions I already used before. But this practical give me more confidence to just play around with git(hub). I was a bit of a shame that the time frame was so short. I would have liked to aim for a 10 but I felt that this was hard given all the things you had to do. e.g. figure out travis, document report, help classmates. I would have loved a bit more time to think up cool stuff I could have done (and get travis to work).
+
 Heb ik gedaan:
 
 Logged in agian after a long time to github.
@@ -39,6 +41,11 @@ I openend an issue were I proposed to make a .gitignore file so files ending in 
 Michiel wondered about the .gitignore files so I decided to give hime and example. I forked his project. added the .gitignore file and made a pull request, which he accepted. I went smooth.
 
 ![fig3](./pics/pull_request.png)
+
+Tried to play around with travis but couldn't get it to work. Its a bit daunting where to start. Maybe i'll look at it later again. Seems fun to use.
+
+
+
 
 
 
