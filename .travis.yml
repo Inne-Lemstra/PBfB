@@ -1,0 +1,5 @@
+  - echo "Last commit at:" >> README.md
+  - date +"%c" >> README.md
+  - git add README.md
+  - git commit -m "udate latest timestamp"
+  - git push  
