@@ -36,5 +36,9 @@ I openend an issue were I proposed to make a .gitignore file so files ending in 
 
 ![fig2](./pics/ignore_issue.png)
 
+Michiel wondered about the .gitignore files so I decided to give hime and example. I forked his project. added the .gitignore file and made a pull request, which he accepted. I went smooth.
+
+![fig3](./pics/pull_request.png)
+
 
 
